@@ -19,7 +19,7 @@
 
 ## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Tecnologias do meu dia a dia
 
-<div style="display: flex; gap:10px">
+<div>
 <img width="50px" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img width="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img width="50px" alt="React Navigation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />
@@ -45,13 +45,13 @@
 
 <div style="display: block">
     <a href="https://dribbble.com/shots/24143893-Sistema-de-Gerenciamento-de-Startup">
-        <img width="334" alt="Thumbnail Sistema de Startups" src="https://cdn.dribbble.com/userupload/14495503/file/original-bb01a036384230c9ffd263af19df6022.jpg?resize=1905x1072" />
+        <img width="270" alt="Thumbnail Sistema de Startups" src="https://cdn.dribbble.com/userupload/14495503/file/original-bb01a036384230c9ffd263af19df6022.jpg?resize=1905x1072" />
     </a>
     <a href="https://dribbble.com/shots/23844427-Senra-App-Supervis-o">
-        <img width="334" alt="Thumbnail App Supervisão" src="https://cdn.dribbble.com/userupload/14496049/file/original-1b676f9f25ee02b5e45a3f5ebdfced4e.jpg?resize=1905x1072" />
+        <img width="270" alt="Thumbnail App Supervisão" src="https://cdn.dribbble.com/userupload/14496049/file/original-1b676f9f25ee02b5e45a3f5ebdfced4e.jpg?resize=1905x1072" />
     </a>
     <a href="https://dribbble.com/shots/24144369-Hub-de-Sistemas">
-        <img width="334" alt="Thumbnail Hub de Sistemas" src="https://cdn.dribbble.com/userupload/14496820/file/original-627f5bc26772fa9cd7bb50298b39d419.jpg?resize=1905x1072" />
+        <img width="270" alt="Thumbnail Hub de Sistemas" src="https://cdn.dribbble.com/userupload/14496820/file/original-627f5bc26772fa9cd7bb50298b39d419.jpg?resize=1905x1072" />
     </a>
 </div>
 
