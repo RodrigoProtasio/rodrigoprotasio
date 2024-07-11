@@ -41,7 +41,7 @@
 </div>
 
 
-## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> Alguns dos meu projetos
+## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> Alguns dos meus projetos
 
 <div style="display: block">
     <a href="https://dribbble.com/shots/24143893-Sistema-de-Gerenciamento-de-Startup">
